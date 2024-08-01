@@ -3,8 +3,11 @@
 Welcome to my GitHub profile! I am Dima, previously working in airport consulting on major aviation infrastructure projects. Now, I am the founder of HeyQQ GmbH, along with my best friend [@newme616](https://github.com/newme616).
 
 Feel free to connect with me:
+
 [![Email](https://img.shields.io/badge/Email-dr@oscarstories.com-red)](mailto:dr@oscarstories.com)
+
 [![Twitter](https://img.shields.io/badge/Twitter-@Dima_heyqq-blue)](https://twitter.com/Dima_heyqq)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dmitrij-rubanov/)
 
 ## Projects 🚀
